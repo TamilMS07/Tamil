@@ -1,0 +1,14 @@
+body{
+    background-color: lavenderblush;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.card{
+    background-color:#F0E3D2;
+    background-image: url(./images\ \(11\).jpg);
+    background-size: cover;
+    display:grid; 
+    height:fit-content;
+    max-width: fit-content;
+    }
